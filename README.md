@@ -1,5 +1,5 @@
 # purpose
-generate 32*32*3 images from cifar-10 raw data include train and test set
+generate 32X32X3 images from cifar-10 raw data include train and test set
 # cifar-10 raw data python
 https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
 # usage
